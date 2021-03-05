@@ -20,7 +20,7 @@ function App() {
         <img src={pic3} width="100%" alt="profilePic" />
       </div>
 
-      <div className="App" style={{ display: "inline-block", width: "75%" }}>
+      <div className="App" style={{ display: "inline-block", width: "79%" }}>
 
         <table class="table table-bordered table-hover" >
           <thead>
@@ -89,19 +89,19 @@ function App() {
             </tr>
             <tr>
               <th scope="row">TAUJI DETAILS</th>
-              <td>Dr. Umesh Kumar Mittal -  Residing in Saharanpur, U.P.<br />
-              Shri Rakesh Kumar Mittal - Retired from Senior DGM from EIL and currently residing in Mumbai<br />
-              Dr. Rajesh Kumar Mittal - Retired from DGM in ONGC and currently residing in Gurgaon</td>
+              <td><b>Dr. Umesh Kumar Mittal</b> -  Residing in Saharanpur, U.P.<br />
+              <b>Shri Rakesh Kumar Mittal</b> - Retired from Senior DGM from EIL and currently residing in Mumbai<br />
+              <b>Dr. Rajesh Kumar Mittal</b> - Retired from DGM in ONGC and currently residing in Gurgaon</td>
             </tr>
             <tr>
               <th scope="row">MAMAJI DETAILS</th>
-              <td>Shri Vinod Kumar Singhal - Engaged in own business of bricks MFG. & Jewellery in Dehradun<br />
-              Shri Pramod Singhal - Engaged in own business of bricks MFG. & Polymer trading in Dehradun (Shivalik Bricks and Gauri Shankar Polymers)<br />
-              Shri Atul Singhal - Engaged in own business of C&F & Distribution of Pharma MNC’s & Amaron Batteries for Uttarakhand. Also deal in Real Estates Building and Consultation in Dehradun.</td>
+              <td><b>Shri Vinod Kumar Singhal</b> - Engaged in own business of bricks MFG. & Jewellery in Dehradun<br />
+              <b>Shri Pramod Singhal</b> - Engaged in own business of bricks MFG. & Polymer trading in Dehradun (Shivalik Bricks and Gauri Shankar Polymers)<br />
+              <b>Shri Atul Singhal</b> - Engaged in own business of C&F & Distribution of Pharma MNC’s & Amaron Batteries for Uttarakhand. Also deal in Real Estates Building and Consultation in Dehradun.</td>
             </tr>
             <tr>
               <th scope="row">MAUSAJI DETAILS</th>
-              <td>Shri Sanjeev Goyal - Engaged in own business of MFG. & export of textiles in Panipat. (Peerless International)</td>
+              <td><b>Shri Sanjeev Goyal</b> - Engaged in own business of MFG. & export of textiles in Panipat. (Peerless International)</td>
             </tr>
             <tr>
               <th scope="row">BUAJI DETAILS</th>
