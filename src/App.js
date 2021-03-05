@@ -65,7 +65,7 @@ function App() {
               <td>23.0 L.P.A.</td>
             </tr>
             <tr>
-              <th scope="row">Hobbies/Interests</th>
+              <th scope="row">HOBBIES/INTERESTS</th>
               <td>Reading, Playing Guitar & Table Tennis, Listening Music, Watching Movies & T.V. Series, Travelling & Running</td>
             </tr>
             <tr>
