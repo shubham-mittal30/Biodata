@@ -52,7 +52,7 @@ function App() {
             </tr>
             <tr>
               <th scope="row">EDUCATION</th>
-              <td><b>School:</b> St. Joseph's Academy Dehradun<br /><b>Degree & College:   </b>B.E. Electronics & Communication Engineering (2011-15), Thapar University, Patiala</td>
+              <td><b>School:</b> St. Joseph's Academy, Dehradun & Sir Padampat Singhania School, Kota, Rajasthan<br /><b>Degree & College:   </b>B.E. Electronics & Communication Engineering (2011-15), Thapar University, Patiala</td>
             </tr>
             <tr>
               <th scope="row">EMPLOYMENT DETAILS</th>
@@ -65,7 +65,7 @@ function App() {
               <td>23.0 L.P.A.</td>
             </tr>
             <tr>
-              <th scope="row">HOBBIES/INTERESTS</th>
+              <th scope="row">HOBBIES & INTERESTS</th>
               <td>Reading, Playing Guitar & Table Tennis, Listening Music, Watching Movies & T.V. Series, Travelling & Running</td>
             </tr>
             <tr>
