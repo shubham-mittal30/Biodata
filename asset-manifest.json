@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/Biodata/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Biodata/static/js/main.1c77e242.chunk.js",
-    "main.js.map": "/Biodata/static/js/main.1c77e242.chunk.js.map",
-    "runtime-main.js": "/Biodata/static/js/runtime-main.82499980.js",
-    "runtime-main.js.map": "/Biodata/static/js/runtime-main.82499980.js.map",
-    "static/js/2.83cdb9ec.chunk.js": "/Biodata/static/js/2.83cdb9ec.chunk.js",
-    "static/js/2.83cdb9ec.chunk.js.map": "/Biodata/static/js/2.83cdb9ec.chunk.js.map",
-    "static/js/3.5c87108c.chunk.js": "/Biodata/static/js/3.5c87108c.chunk.js",
-    "static/js/3.5c87108c.chunk.js.map": "/Biodata/static/js/3.5c87108c.chunk.js.map",
+    "main.css": "/Biodata/static/css/main.0480e2bc.chunk.css",
+    "main.js": "/Biodata/static/js/main.241385b2.chunk.js",
+    "main.js.map": "/Biodata/static/js/main.241385b2.chunk.js.map",
+    "runtime-main.js": "/Biodata/static/js/runtime-main.724721ea.js",
+    "runtime-main.js.map": "/Biodata/static/js/runtime-main.724721ea.js.map",
+    "static/css/2.150d169a.chunk.css": "/Biodata/static/css/2.150d169a.chunk.css",
+    "static/js/2.2a710f1c.chunk.js": "/Biodata/static/js/2.2a710f1c.chunk.js",
+    "static/js/2.2a710f1c.chunk.js.map": "/Biodata/static/js/2.2a710f1c.chunk.js.map",
+    "static/js/3.da19a2bf.chunk.js": "/Biodata/static/js/3.da19a2bf.chunk.js",
+    "static/js/3.da19a2bf.chunk.js.map": "/Biodata/static/js/3.da19a2bf.chunk.js.map",
     "index.html": "/Biodata/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Biodata/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.83cdb9ec.chunk.js.LICENSE.txt": "/Biodata/static/js/2.83cdb9ec.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Biodata/static/media/logo.6ce24c58.svg"
+    "static/css/2.150d169a.chunk.css.map": "/Biodata/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.0480e2bc.chunk.css.map": "/Biodata/static/css/main.0480e2bc.chunk.css.map",
+    "static/js/2.2a710f1c.chunk.js.LICENSE.txt": "/Biodata/static/js/2.2a710f1c.chunk.js.LICENSE.txt",
+    "static/media/profilePic.c004aabf.jpg": "/Biodata/static/media/profilePic.c004aabf.jpg",
+    "static/media/profilePic2.9a8a499a.jpg": "/Biodata/static/media/profilePic2.9a8a499a.jpg",
+    "static/media/profilePic3.cd22de8d.jpg": "/Biodata/static/media/profilePic3.cd22de8d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.82499980.js",
-    "static/js/2.83cdb9ec.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.1c77e242.chunk.js"
+    "static/js/runtime-main.724721ea.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2a710f1c.chunk.js",
+    "static/css/main.0480e2bc.chunk.css",
+    "static/js/main.241385b2.chunk.js"
   ]
 }
