@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Biodata/static/css/main.0480e2bc.chunk.css",
-    "main.js": "/Biodata/static/js/main.2ddc9a70.chunk.js",
-    "main.js.map": "/Biodata/static/js/main.2ddc9a70.chunk.js.map",
+    "main.js": "/Biodata/static/js/main.27520aa2.chunk.js",
+    "main.js.map": "/Biodata/static/js/main.27520aa2.chunk.js.map",
     "runtime-main.js": "/Biodata/static/js/runtime-main.724721ea.js",
     "runtime-main.js.map": "/Biodata/static/js/runtime-main.724721ea.js.map",
     "static/css/2.150d169a.chunk.css": "/Biodata/static/css/2.150d169a.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.2a710f1c.chunk.js",
     "static/css/main.0480e2bc.chunk.css",
-    "static/js/main.2ddc9a70.chunk.js"
+    "static/js/main.27520aa2.chunk.js"
   ]
 }
