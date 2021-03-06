@@ -39,7 +39,7 @@ function App() {
             </tr>
             <tr>
               <th scope="row">COMPLEXION</th>
-              <td>Fair</td>
+              <td>Wheatish</td>
 
             </tr>
             <tr>
@@ -89,9 +89,7 @@ function App() {
             </tr>
             <tr>
               <th scope="row">TAUJI DETAILS</th>
-              <td><b>Dr. Umesh Kumar Mittal</b> -  Residing in Saharanpur, U.P.<br />
-              <b>Shri Rakesh Kumar Mittal</b> - Retired from Senior DGM from EIL and currently residing in Mumbai<br />
-              <b>Dr. Rajesh Kumar Mittal</b> - Retired from DGM in ONGC and currently residing in Gurgaon</td>
+              <td>All three Taujis' are well settled and placed in their respective families.</td>
             </tr>
             <tr>
               <th scope="row">MAMAJI DETAILS</th>
