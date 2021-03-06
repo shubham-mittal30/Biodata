@@ -70,7 +70,7 @@ function App() {
             </tr>
             <tr>
               <th scope="row">FATHER DETAILS</th>
-              <td>Shri Yogesh Kumar Mittal , <b>(M.Com., L.L.B., L.L.M.)</b> <br />
+              <td>Shri Yogesh Kumar Mittal , <b>(M.Com.,LL.M.)</b> <br />
               Working as <b>Joint Commissioner in SGST Deptt. Govt. of Uttarakhand, Kashipur</b></td>
             </tr>
             <tr>
@@ -80,7 +80,7 @@ function App() {
             </tr>
             <tr>
               <th scope="row">SISTER DETAILS</th>
-              <td>Mrs. Aanchal Agarwal , <b>(M.B.A in Information Systems Management, U.P.E.S, Dehradun)</b> <br />
+              <td>Mrs. Aanchal Agarwal<br />
               Working as Assistant Manager Finance in Conduent Services Noida <br />Married to Mr. Shashank Agarwal <b>(Director of Gray Graph Technologies Noida.)</b></td>
             </tr>
             <tr>
@@ -92,24 +92,26 @@ function App() {
               <td>All three Taujis' are well settled and placed in their respective families.</td>
             </tr>
             <tr>
+              <th scope="row">BUAJI DETAILS</th>
+              <td>All five Buas' are well settled and placed in their respective families.</td>
+            </tr>
+            <tr>
               <th scope="row">MAMAJI DETAILS</th>
               <td><b>Shri Vinod Kumar Singhal</b> - Engaged in own business of bricks MFG. & Jewellery in Dehradun<br />
               <b>Shri Pramod Singhal</b> - Engaged in own business of bricks MFG. & Polymer trading in Dehradun (Shivalik Bricks and Gauri Shankar Polymers)<br />
               <b>Shri Atul Singhal</b> - Engaged in own business of C&F & Distribution of Pharma MNC’s & Amaron Batteries for Uttarakhand. Also deal in Real Estates Building and Consultation in Dehradun.</td>
             </tr>
             <tr>
-              <th scope="row">MAUSAJI DETAILS</th>
-              <td><b>Shri Sanjeev Goyal</b> - Engaged in own business of MFG. & export of textiles in Panipat. (Peerless International)</td>
+              <th scope="row">MAUSIJI DETAILS</th>
+              <td><b>Mrs Nidhi Goyal</b><br/> Married to Mr. Sanjeev Goyal - Engaged in own business of MFG. & export of textiles in Panipat.(Peerless International)</td>
             </tr>
-            <tr>
-              <th scope="row">BUAJI DETAILS</th>
-              <td>All five Buas' are well settled and placed in their respective families.</td>
-            </tr>
+           
             <tr>
               <th scope="row">OTHER DETAILS</th>
               <td>We have our own house, car in Dehradun and
 currently residing in Kashipur. Should the above particulars find favour with you, kindly send similar details about the
-girl & the family at the following address – <a href = "mailto: mittalshubham30@gmail.com">mittalshubham30@gmail.com</a></td>
+girl & the family at the following address – <a href = "mailto: mittalshubham30@gmail.com">mittalshubham30@gmail.com</a><br/>
+You can also call or whatsapp on <a href="tel:+916397174365">+916397174365</a>&nbsp;&nbsp;<a href="tel:+919639405479">+919639405479</a></td>
             </tr>
             <tr>
               <th scope="row">SOCIAL FOLLOW </th>
