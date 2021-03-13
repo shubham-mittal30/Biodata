@@ -113,25 +113,7 @@ currently residing in Kashipur. Should the above particulars find favour with yo
 girl & the family at the following address – <a href = "mailto: mittalshubham30@gmail.com">mittalshubham30@gmail.com</a><br/>
 You can also call or whatsapp on <a href="tel:+916397174365">+916397174365</a>&nbsp;&nbsp;<a href="tel:+919639405479">+919639405479</a></td>
             </tr>
-            <tr>
-              <th scope="row">SOCIAL FOLLOW </th>
-              <td>
-                <div class="social-container">
-
-                  <a href="https://www.facebook.com/shubham.mittal.988/"
-                    className="facebook social">
-                    <FontAwesomeIcon icon={faFacebook} size="2x" />
-                  </a>
-                  <a href="https://www.instagram.com/shubh_on_strings/"
-                    className="instagram social">
-                    <FontAwesomeIcon icon={faInstagram} size="2x" />
-                  </a>
-                  <a href="https://www.linkedin.com/in/shubham-mittal-97883b34/"
-                    className="linkedIn social">
-                    <FontAwesomeIcon icon={faLinkedin} size="2x" />
-                  </a></div>
-              </td>
-            </tr>
+           
           </tbody>
         </table>
       </div>
