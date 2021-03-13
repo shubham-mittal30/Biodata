@@ -39,7 +39,7 @@ function App() {
             </tr>
             <tr>
               <th scope="row">COMPLEXION</th>
-              <td>Wheatish</td>
+              <td>Fair</td>
 
             </tr>
             <tr>
